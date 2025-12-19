@@ -1,0 +1,8 @@
+{
+  "name": "Weera Farm & Sales Pro",
+  "description": "A high-performance agricultural management dashboard featuring harvest tracking, work record logging, sales order management, and AI-powered farm insights using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
